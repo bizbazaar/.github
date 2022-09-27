@@ -14,7 +14,7 @@ BizBazaar is an e-commerce site that allows users to buy a wide variety of produ
 
 [![Frontend Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bizbazaar_bizbazaar-frontend&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=bizbazaar_bizbazaar-frontend)
 
-[![Backend Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bizbazaar_bizbazaar-backend&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=bizbazaar_bizbazaar-backend)
+[![Backend Coverage](https://sonarcloud.io/api/project_badges/measure?project=bizbazaar_bizbazaar-backend&metric=coverage)](https://sonarcloud.io/summary/new_code?id=bizbazaar_bizbazaar-backend)
 
 ## Technologies
 
