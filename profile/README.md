@@ -19,16 +19,18 @@ BizBazaar is an e-commerce site that allows users to buy a wide variety of produ
 ## Technologies
 
 ### Backend
+- PostgreSQL
+- Project Lombok
 - Spring Framework
     - Spring Boot
     - Spring Data JPA
     - Spring Web
-- Project Lombok
 
 ### Frontend
-- React
 - Axios
 - MUI v5
+- Node.js
+- React
 
 ### Code Analysis
 - Jacoco
@@ -39,6 +41,7 @@ BizBazaar is an e-commerce site that allows users to buy a wide variety of produ
 - AWS CodePipeline
 - AWS Elastic Beanstalk
 - AWS RDS (PostgreSQL)
+- Docker
 
 ## Features
 - Users with permissions can add new products and update information on existing products
@@ -49,6 +52,8 @@ BizBazaar is an e-commerce site that allows users to buy a wide variety of produ
 - Users can save products to a wishlist
 
 ## Getting Started
+
+Please refer to [STARTUP.md](https://github.com/bizbazaar/.github/blob/main/profile/STARTUP.md) for instructions on running and deploying the application.
 
 ## Contributors
 
