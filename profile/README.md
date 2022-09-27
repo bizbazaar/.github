@@ -12,6 +12,10 @@ Table of Contents |
 
 BizBazaar is an e-commerce site that allows users to buy a wide variety of products. Staff can add new products and update existing ones. Customers can view detailed product information and save products to a wishlist for later. Customers can select the quantity of a product to add to their cart and edit the contents of their cart before checkout. Customers can also view their order history.
 
+[![Frontend Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bizbazaar_bizbazaar-frontend&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=bizbazaar_bizbazaar-frontend)
+
+[![Backend Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bizbazaar_bizbazaar-backend&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=bizbazaar_bizbazaar-backend)
+
 ## Technologies
 
 ### Backend
