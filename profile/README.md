@@ -65,13 +65,13 @@ Please refer to [STARTUP.md](https://github.com/bizbazaar/.github/blob/main/prof
 - Erick Cilia
 - Tariq Saddler
 
-### Matt's Group
+### BizzyBees
 - Matt (Team Lead)
+- Vadym Rohachko
 - Win Thurein Myint
 - Wint Kay Thwe Aung
-- Vadym Rohachko
 
-### Team Trenton
+### BizNessBois
 - Trenton Teasdale (Team Lead)
 - Anthony Baraja
 - Brandon Learned
