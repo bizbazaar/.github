@@ -53,7 +53,7 @@ Both the frontend and backend repositories include a Dockerfile and buildspec.ym
 5. Select CodeBuild as the build provider and create a new project for it.
 6. Ensure that the concurrent build limit is enabled and set to 1.
 7. Set the following environment variables:
-    - `DB_URL` - The connection string for the database (`jdbc:postgresql://HOST:PORT/DATABASE)
+    - `DB_URL` - The connection string for the database (jdbc:postgresql://HOST:PORT/DATABASE)
     - `DB_USERNAME` - The username for the database connection.
     - `DB_PASSWORD` - The password for the database connection.
     - `SONAR_TOKEN` - The user token generated on SonarCloud.
